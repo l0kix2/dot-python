@@ -1,0 +1,1 @@
+pip install -r $HOME/.python-packages/packages.txt
