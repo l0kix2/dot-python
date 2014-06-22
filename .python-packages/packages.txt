@@ -1,2 +1,6 @@
-virtualenv
-virtualenvwrapper
+Fabric==1.7.0
+fabtools==0.18.0
+# newer versions doesn't work with fabric for me
+paramiko==1.10.0
+
+cookiecutter
